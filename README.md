@@ -1,1 +1,11 @@
-# repo-template
+
+  # BridgeSense AI 2.0 Platform
+
+  This is a code bundle for BridgeSense AI 2.0 Platform. The original project is available at https://www.figma.com/design/DXzTvpFli8c5L8QIKPTIcB/BridgeSense-AI-2.0-Platform.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
